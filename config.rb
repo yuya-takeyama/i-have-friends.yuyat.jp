@@ -75,4 +75,10 @@ activate :deploy do |deploy|
 end
 
 set :markdown_engine, :redcarpet
-set :markdown, :fenced_code_blocks => true, :smartypants => true
+set :markdown, fenced_code_blocks: true, smartypants: true
+
+Slim::Engine.set_default_options shortcut: {
+  '#' => {tag: 'div', attr: 'id'},
+  '.' => {tag: 'div', attr: 'class'},
+  '&' => {tag: 'input', attr: 'type'}
+}
