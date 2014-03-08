@@ -1,0 +1,8 @@
+---
+pageable: true
+pper_page: 10
+---
+
+ul
+  - page_articles.each do |article|
+    li = link_to "#{article.data.date.strftime '%Y/%m/%d'} #{article.title}", article

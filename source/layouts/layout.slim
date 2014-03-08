@@ -1,0 +1,21 @@
+doctype html
+html
+  head
+    meta[charset="utf-8"]
+    meta[content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"]
+    title
+      = current_page.data.title || "I have friends only I can see"
+    = stylesheet_link_tag "normalize", "all"
+    = javascript_include_tag  "all"
+    link[href="http://fonts.googleapis.com/css?family=Lilita+One" rel="stylesheet" type="text/css"]
+  body
+    h1
+      a[href="/"]
+        | I have friends
+        br
+        | only I can see
+
+    #content
+      = yield
+
+    #footer Copyright &copy; 2014 Yuya Takeyama

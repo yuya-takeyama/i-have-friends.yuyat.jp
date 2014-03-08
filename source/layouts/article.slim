@@ -1,0 +1,6 @@
+- wrap_layout :layout do
+  article
+    .date = current_page.data.date.strftime '%Y/%m/%d'
+    h2 = link_to current_page.title, current_page
+
+    = yield

@@ -69,6 +69,13 @@ configure :build do
   # set :http_prefix, "/Content/images/"
 end
 
+Time.zone = 'Tokyo'
+
+activate :blog do |blog|
+  blog.layout = 'article'
+  blog.paginate = true
+end
+
 activate :deploy do |deploy|
   deploy.method = :git
   deploy.branch = 'gh-pages'
