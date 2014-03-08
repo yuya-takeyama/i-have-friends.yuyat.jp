@@ -1,5 +1,5 @@
 doctype html
-html
+html[xmlns:fb="http://ogp.me/ns/fb#"]
   head
     meta[charset="utf-8"]
     meta[content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"]
@@ -9,6 +9,16 @@ html
     = javascript_include_tag  "all"
     link[href="http://fonts.googleapis.com/css?family=Lilita+One" rel="stylesheet" type="text/css"]
   body
+    #fb-root
+    javascript:
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=1460155170868944";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+
     h1
       a[href="/"]
         | I have friends
