@@ -8,3 +8,4 @@ gem 'middleman-blog', '~> 3.5.1'
 
 gem 'slim', '~> 2.0.2'
 gem 'redcarpet', '~> 3.0.0'
+gem 'nokogiri', '~> 1.6.1'

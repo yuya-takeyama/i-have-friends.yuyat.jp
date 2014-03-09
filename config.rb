@@ -74,6 +74,7 @@ Time.zone = 'Tokyo'
 activate :blog do |blog|
   blog.layout = 'article'
   blog.paginate = true
+  blog.summary_separator = /READMORE/
 end
 
 activate :deploy do |deploy|
