@@ -58,9 +58,14 @@ h1 {
     text-indent: 0.5em; }
   /* line 74, /Users/yuya/dev/blog/i-have-friends.yuyat.jp/source/stylesheets/all.css.scss */
   #content .video {
-    text-align: center; }
+    text-align: center;
+    margin: 10px; }
+  /* line 79, /Users/yuya/dev/blog/i-have-friends.yuyat.jp/source/stylesheets/all.css.scss */
+  #content .amazon_link {
+    text-align: center;
+    margin: 10px; }
 
-/* line 79, /Users/yuya/dev/blog/i-have-friends.yuyat.jp/source/stylesheets/all.css.scss */
+/* line 85, /Users/yuya/dev/blog/i-have-friends.yuyat.jp/source/stylesheets/all.css.scss */
 #footer {
   width: 720px;
   margin: 0 auto;
