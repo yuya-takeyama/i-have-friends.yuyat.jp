@@ -6,7 +6,7 @@ date: 2014-03-09
 サイケの作品は入手困難なものも少なくいが、改めて iTunes で探してみると、意外といろんなアルバムが購入できることに気づく。
 
 個人的に思い入れのあるサイケ作品の中で、iTunes で購入可能なものに的を絞って 10 枚紹介する。中には別に入手困難でもなんでもなくて、Amazon で購入可能なものもあるので、よければ CD に手を出してみるのもいいかもしれない。
-
+READMORE
 ### [Brain Police / Brain Police (1968)](https://itunes.apple.com/jp/album/the-brain-police/id326002884)
 
 <div class="video"><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/8PkTTWQ7uRU" frameborder="0" allowfullscreen></iframe></div>
