@@ -78,7 +78,7 @@ READMORE
 
 <div class="video"><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/6G8eU3Qjz5A" frameborder="0" allowfullscreen></iframe></div>
 
-日本のサイケデリックロックのコンピレーション。*Highr Rise* と*灰野敬二*の共演や、メジャーデビュー前で危険な香りが強烈だった頃の*ゆらゆら帝国*の楽曲等がおさめられている。中でも幕開けの *White Heaven* による *Silver Current* は強烈なサイケギターをフィーチャーした良質のハードブルーズである。
+日本のサイケデリックロックのコンピレーション。*High Rise* と*灰野敬二*の共演や、メジャーデビュー前で危険な香りが強烈だった頃の*ゆらゆら帝国*の楽曲等がおさめられている。中でも幕開けの *White Heaven* による *Silver Current* は強烈なサイケギターをフィーチャーした良質のハードブルーズである。
 
 ### [ガセネタ / Sooner or Later (1993)](https://itunes.apple.com/us/album/sooner-or-later/id371077573)
 
